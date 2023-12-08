@@ -1,6 +1,0 @@
-2023/12/03 20:22:34 [emerg] 10412#13396: CreateFile() "D:\nginx-visualstudio-master/conf\nginx.conf" failed (2: The system cannot find the file specified)
-2023/12/03 20:23:02 [emerg] 1240#13908: CreateFile() "D:\nginx-visualstudio-master/conf\mime.types" failed (2: The system cannot find the file specified) in D:\nginx-visualstudio-master/conf\nginx.conf:17
-2023/12/03 20:23:20 [emerg] 15724#5516: CreateFile() "D:\nginx-visualstudio-master/conf\nginx.conf" failed (2: The system cannot find the file specified)
-2023/12/03 20:25:43 [emerg] 10392#15416: CreateFile() "D:\nginx-visualstudio-master/conf\mime.types" failed (2: The system cannot find the file specified) in D:\nginx-visualstudio-master/conf\nginx.conf:18
-2023/12/03 20:46:52 [error] 13264#11796: *1 CreateFile() "D:\WWW/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8081", referrer: "http://localhost:8081/"
-2023/12/03 20:46:52 [error] 13264#11796: *1 CreateFile() "D:\WWW/error/404.html" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8081", referrer: "http://localhost:8081/"
