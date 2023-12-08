@@ -211,7 +211,7 @@ main(int argc, char *const *argv)
 #endif
 //获取当前进程号
     ngx_pid = ngx_getpid();
-
+//在指定目录初始化logs文件并获取文件句柄fd
     log = ngx_log_init(ngx_prefix);
     if (log == NULL) {
         return 1;
