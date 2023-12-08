@@ -1,0 +1,2 @@
+127.0.0.1 - - [03/Dec/2023:20:46:51 +0800] "GET / HTTP/1.1" 200 21 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0"
+127.0.0.1 - - [03/Dec/2023:20:46:52 +0800] "GET /favicon.ico HTTP/1.1" 404 571 "http://localhost:8081/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0"
